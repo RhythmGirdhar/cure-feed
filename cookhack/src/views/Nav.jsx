@@ -53,6 +53,11 @@ function Nav() {
               Log Out
             </NavLink>
           </div>
+          <div className="container">
+          <button type="button" class="button">
+            ☰
+          </button>
+        </div>
           <div className="nav-login-icon">
             <img src={AccIcon} alt="" className="login-icon" />
           </div>

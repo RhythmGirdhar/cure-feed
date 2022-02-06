@@ -29,13 +29,13 @@ export default function CreatePost({isAuth}) {
           <Nav />
   <div className="CreatePost-page">
       <div className="CreatePost-container">
-        <h1 className="CreatePost-header">Create A Review</h1>
+        <h1 className="CreatePost-header">Create A Recipe</h1>
         <div className="inputGp">
             <label className ="CreatePost-title"> Recipe Name: </label>
             <input  className="CreatePost-input" placeholder="Recipe..." onChange={(event) => {setTitle(event.target.value)}}/>
         </div>
         <div className="inputGp">
-            <label className="CreatePost-post"> Review:</label>
+            <label className="CreatePost-post"> Recipe:</label>
             <textarea className="CreatePost-textarea" placeholder="Review..." onChange={(event) => {setPostText(event.target.value)}}/>
         </div>
         <button className="CreatePost-button" onClick={createPost}>Submit Post</button>

@@ -36,6 +36,7 @@
     display: flex;
     flex-direction: column;
     text-align: left;
+    color: #ffc13d;
 }
 
 .CreatePost-post {
@@ -43,6 +44,7 @@
     display: flex;
     flex-direction: column;
     text-align: left;
+    color: #ffc13d;
 }
 
 
@@ -68,6 +70,7 @@
 
 .CreatePost-header {
     text-align: center;
+    color: #ffc13d;
 }
 
 .CreatePost-button {
