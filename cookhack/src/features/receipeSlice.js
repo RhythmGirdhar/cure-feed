@@ -19,17 +19,17 @@ const initialState = {
     {
       name: "Celery Juice",
       image: image3,
-      description: "Best Celery Juice Ever!!!!",
+      description: "Here’s an easy Celery Juice Recipe that is nourishing, fresh, and delicious, with directions for making it in a juicer or a blender. Fresh celery juice is a nourishing beverage that you can drink in the morning or at any time of day.",
     },
     {
       name: "Spinach Pasta",
       image: image4,
-      description: "Spniach Pasta",
+      description: "It’s a winner because while the pasta is cooking, you just need to saute’ the fresh spinach in olive oil and plenty of fragrant garlic. And if the amount of spinach looks overwhelming, I assure you it will quickly wilt in matter of minutes. Then add cream cheese, parmesan and a generous grating of nutmeg, which works so well with both spinach sauce and parmesan. The result is savory, creamy, with hints of nutmeg, and delicious bright spinach. Toss pasta with the sauce, serve with grated parmesan cheese, black pepper and DEVOUR!",
     },
     {
       name: "Chicken Pizza",
       image: image5,
-      description: "Chicken Pizza",
+      description: "Here’s an easy Celery Juice Recipe that is nourishing, fresh, and delicious, with directions for making it in a juicer or a blender. Fresh celery juice is a nourishing beverage that you can drink in the morning or at any time of day.",
     },
     {
       name: "Garlic Bread",
