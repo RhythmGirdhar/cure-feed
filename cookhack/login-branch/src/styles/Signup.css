@@ -8,11 +8,10 @@
     background: url('../assets/login-background.jpg'); 
     background-size: cover;
     background-position: center;
-    color: #ffc13d;
 }
 
 .Signup-button {
-    background-color: #900!important;
+    background-color: #900 !important;
     border-color: #900 !important;
     margin-top: 1rem;
     margin-bottom: 1rem;
@@ -24,7 +23,6 @@
 
 .Signup-header2 {
     font-size: 40px;
-    color: #900;
 }
 
 .Signup-form {
@@ -39,7 +37,8 @@
 
 .Signup-field {
     font-size: 18px;
-    border: solid 1px #900;
+    border: solid 1px #000;
+    color: #000;
     border-radius: 2px;
     padding: 10px;
     height: 20px;
@@ -50,18 +49,17 @@
 
 .Signup-login {
     font-style: italic;
-    color:#ffc13d;
 }
 
 .Signup-card {
-    margin-top: -50vh;
+    margin-top: 5vh;
     opacity: 0.9;
     width: 50vw;
     height: auto;
     padding: 20px;
     background-color: rgb(247, 247, 247);
     border-radius: 5px;
-    color: #900;
+    color: rgb(0, 0, 0);
     display: flex;
     flex-direction: column;
     box-shadow: rgba(0, 0, 0, 0.07) 0px 1px 1px, rgba(0, 0, 0, 0.07) 0px 2px 2px, rgba(0, 0, 0, 0.07) 0px 4px 4px, rgba(0, 0, 0, 0.07) 0px 8px 8px, rgba(0, 0, 0, 0.07) 0px 16px 16px;

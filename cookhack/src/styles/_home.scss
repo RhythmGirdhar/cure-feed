@@ -19,7 +19,7 @@
 .home-title {
   text-align: left;
   font-family: "DM Serif Display", sans-serif;
-  font-size: 4.5rem;
+  font-size: 4.0rem;
 }
 .greeting-container {
   align-self: center;
@@ -34,7 +34,9 @@
   }
   .cta-container {
     justify-self: flex-end;
-    padding-top: 5rem;
+    padding-top: 2.5rem;
+    margin-left: -46px;
+    margin-top: 10px;
   }
   a {
     border: none;

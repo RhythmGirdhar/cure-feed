@@ -28,7 +28,7 @@ function Home() {
         <div className="greeting-container">
           <div className="greeting-text">
             <h1 className="home-title">CureFeed - Your Personalized Recipes</h1>
-            <h3>Explore new receipes with your ingredients</h3>
+            <h3>Explore new recipes with your ingredients</h3>
           </div>
           <div className="cta-container">
             <NavLink to="/menu" className="start-btn">
